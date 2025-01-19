@@ -22,9 +22,7 @@ layout:
 
 Welcome to 1KUT's Wiki!
 
-This wiki contains detailed information about all the configurations I’ve created.
-Find guides, documentation, and tips to help you make the most out of my configurations.
-Feel free to explore and find everything you need here!
+This wiki contains detailed information about all the configurations I’ve created. Find guides, documentation, and tips to help you make the most out of my configurations. Feel free to explore and find everything you need here!
 
 ### Jump right in
 
