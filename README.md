@@ -20,9 +20,11 @@ layout:
 
 # Welcome
 
-Welcome to 1KUT's Creations! Wiki
+Welcome to 1KUT's Wiki!
 
-Discover a collection of high-quality configurations designed to elevate your Minecraft server experience. Whether you're looking for seamless setups or powerful enhancements, you're in the right place. Dive in, explore, and let’s build something amazing together!
+This wiki contains detailed information about all the configurations I’ve created.
+Find guides, documentation, and tips to help you make the most out of my configurations.
+Feel free to explore and find everything you need here!
 
 ### Jump right in
 
