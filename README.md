@@ -21,6 +21,7 @@ layout:
 # Welcome
 
 Welcome to 1KUT's Creations!
+
 Discover a collection of high-quality configurations designed to elevate your Minecraft server experience. Whether you're looking for seamless setups or powerful enhancements, you're in the right place. Dive in, explore, and let’s build something amazing together!
 
 ### Jump right in
