@@ -20,9 +20,8 @@ layout:
 
 # Welcome
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
-
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Welcome to 1KUT's Creations!
+Discover a collection of high-quality configurations designed to elevate your Minecraft server experience. Whether you're looking for seamless setups or powerful enhancements, you're in the right place. Dive in, explore, and let’s build something amazing together!
 
 ### Jump right in
 
